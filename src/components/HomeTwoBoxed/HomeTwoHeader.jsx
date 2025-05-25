@@ -16,8 +16,8 @@ function HomeTwoHeader({ action, className, scroll }) {
             <ul className="list-style-one">
               <li>
                 <i className="fa fa-envelope"></i>
-                <Link to="/mailto:needhelp@company.com">
-                  needhelp@company.com
+                <Link to="/mailto:info@firefinchtechnologies.com">
+                  info@firefinchtechnologies.com
                 </Link>
               </li>
               <li>

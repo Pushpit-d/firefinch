@@ -26,7 +26,7 @@ function HomeFive() {
     <>
       <HeaderFour action={drawerAction.toggle} />
       <BannerSectionThree />
-      <FeaturesSectionFive />
+      {/* <FeaturesSectionFive /> */}
       <AboutSectionSix />
       <IndustriesSection />
       <ServicesHomeThree />

@@ -65,8 +65,8 @@ function Header({ action, className, scroll }) {
                 <ul className="list-style-one">
                   <li>
                     <i className="fa fa-envelope"></i>{" "}
-                    <Link to="mailto:needhelp@company.com">
-                      needhelp@company.com
+                    <Link to="mailto:info@firefinchtechnologies.com">
+                      info@firefinchtechnologies.com
                     </Link>
                   </li>
                   <li>
@@ -151,7 +151,7 @@ function Header({ action, className, scroll }) {
                 <div className="contact-info-box">
                   <span className="icon lnr-icon-clock"></span>
                   <span className="title">Send Email</span>
-                  Mon - Sat 8:00 - 6:30, Sunday - 
+                  Mon - Sat 8:00 - 6:30, Sunday -
                 </div>
               </li>
             </ul>

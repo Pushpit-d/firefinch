@@ -86,19 +86,17 @@ function FooterHomeOne({ className }) {
               <div className="footer-widget contact-widget">
                 <h3 className="widget-title">Contact</h3>
                 <div className="widget-content">
-                  <div className="text">
-                    66 Road Broklyn Street, 600 New York, USA
-                  </div>
+                  <div className="text">MASHREQ, Al Suq Al Kabeer, Dubai</div>
                   <ul className="contact-info">
                     <li>
                       <i className="fa fa-envelope"></i>{" "}
-                      <Link to="mailto:needhelp@company.com">
-                        needhelp@company.com
+                      <Link to="mailto:info@firefinchtechnologies.com">
+                        info@firefinchtechnologies.com
                       </Link>
                     </li>
                     <li>
                       <i className="fa fa-phone-square"></i>{" "}
-                      <Link to="tel:+926668880000">+92 666 888 0000</Link>
+                      <Link to="tel:+971585940567">+971 58 594 0567</Link>
                     </li>
                   </ul>
                 </div>
