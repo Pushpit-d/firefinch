@@ -7,6 +7,8 @@ function AboutSectionFive({ className }) {
         <section className={`about-section-five style-two pt-0 ${className || ''}`}>
             <br></br>
             <br></br>
+            <br></br>
+            <br></br>
             <div className="auto-container">
                 <div className="row">
                     <div className="content-column col-xl-6 col-lg-6 col-md-12 order-2 wow fadeInRight" data-wow-delay="600ms">
