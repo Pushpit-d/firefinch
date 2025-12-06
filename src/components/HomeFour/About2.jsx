@@ -37,7 +37,7 @@ function AboutSectionSix({ className }) {
                             </div>
 
                             <div className="btm-box">
-                                <Link to="/contact-pages" className="theme-btn btn-style-one">
+                                <Link to="/contact-us" className="theme-btn btn-style-one">
                                     <span className="btn-title">Contact Us</span>
                                 </Link>
                             </div>

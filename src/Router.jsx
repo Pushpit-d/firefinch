@@ -125,7 +125,7 @@ const router = createBrowserRouter([
         element: <NewsDetails />
       },
       {
-        path: "/contact-pages",
+        path: "/contact-us",
         element: <Contact Pages />
       },
       {

@@ -68,7 +68,7 @@ function Navigation() {
                     <li><Link to="/news-details">News Details</Link></li>
                 </ul>
             </li> */}
-            <li><Link to="/contact-pages">Contact </Link></li>
+            <li><Link to="/contact-us">Contact </Link></li>
         </ul>
     </nav>
     );
