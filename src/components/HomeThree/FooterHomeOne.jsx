@@ -63,19 +63,13 @@ function FooterHomeOne({ className }) {
                 <h3 className="widget-title">Explore</h3>
                 <ul className="user-links">
                   <li>
-                    <Link to="#">About Company</Link>
+                    <Link to="/about-us">About Company</Link>
                   </li>
                   <li>
-                    <Link to="#">Meet the Team</Link>
+                    <Link to="/services">Our Services</Link>
                   </li>
                   <li>
-                    <Link to="#">News & Media</Link>
-                  </li>
-                  <li>
-                    <Link to="#">Our Projects</Link>
-                  </li>
-                  <li>
-                    <Link to="#">Contact</Link>
+                    <Link to="#">Contact Us</Link>
                   </li>
                 </ul>
               </div>
