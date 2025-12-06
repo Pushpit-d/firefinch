@@ -37,7 +37,7 @@ function ContactSectionThree() {
                 <span className="icon fa fa-phone"></span>
                 <h6 className="title">Call now</h6>
                 <div className="text">
-                  <Link to="tel:+999000111222">+999 000 111 222</Link>
+                  <Link to="tel:+97142621654">+971 4 262 1654</Link>
                 </div>
               </div>
             </div>
