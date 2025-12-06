@@ -80,7 +80,7 @@ function FooterHomeOne({ className }) {
                     </li>
                     <li>
                       <i className="fa fa-phone-square"></i>{" "}
-                      <Link to="tel:+971585940567">+971 58 594 0567</Link>
+                      <Link to="tel:+97142621654">+971 58 594 0567</Link>
                     </li>
                   </ul>
                 </div>
