@@ -120,7 +120,7 @@ function Contact() {
                     <div className="text">
                       <h6>Have any question?</h6>
                       <a href="tel:980089850">
-                        <span>Free</span> +971 4 262 1654
+                        <span>Free</span> +971 4 558 3791
                       </a>
                     </div>
                   </li>
