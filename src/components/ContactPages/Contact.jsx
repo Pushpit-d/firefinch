@@ -141,7 +141,7 @@ function Contact() {
                     </div>
                     <div className="text">
                       <h6>Visit anytime</h6>
-                      <span>Office No1072 - Entrance Offices Block B, M Floor Office-11C Muteena, Dubai-UAE<br> PO Box No: 32925</span>
+                      <span>Office No1072 - Entrance Offices Block B, M Floor Office-11C Muteena, Dubai-UAE<br />PO Box No: 32925</span>
                     </div>
                   </li>
                 </ul>

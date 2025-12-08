@@ -20,7 +20,7 @@ function ContactSectionThree() {
               <div className="contact-info-box-two">
                 <span className="icon fa fa-map-marker-alt"></span>
                 <h6 className="title">Visit Us</h6>
-                <div className="text">Office No1072 - Entrance Offices Block B, M Floor Office-11C Muteena, Dubai-UAE<br> PO Box No: 32925</div>
+                <div className="text">Office No1072 - Entrance Offices Block B, M Floor Office-11C Muteena, Dubai-UAE<br /> PO Box No: 32925</div>
               </div>
 
               <div className="contact-info-box-two">
