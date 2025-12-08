@@ -152,7 +152,7 @@ function Header({ action, className, scroll }) {
                 {/*<!-- Contact Info Box -->*/}
                 <div className="contact-info-box">
                   <span className="icon lnr-icon-clock"></span>
-                  <span className="title">Send Email</span>
+                  <span className="title">Opening Hours</span>
                   Mon - Sat 8:00 - 6:30, Sunday -
                 </div>
               </li>

@@ -140,8 +140,8 @@ function Contact() {
                       <span className="lnr-icon-location"></span>
                     </div>
                     <div className="text">
-                      <h6>Visit anytime</h6>
-                      <span>Office No1072 - Entrance Offices Block B, M Floor Office-11C Muteena, Dubai-UAE<br />PO Box No: 32925</span>
+                      {/* <h6>Visit anytime</h6> */}
+                      <span>Office No1072 - Entrance Offices Block B, M Floor Office-11C Muteena, Dubai-UAE</span>
                     </div>
                   </li>
                 </ul>
