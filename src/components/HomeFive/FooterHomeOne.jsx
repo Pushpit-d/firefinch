@@ -64,7 +64,7 @@ function FooterHomeOne({ className }) {
               <div className="footer-widget contact-widget">
                 <h3 className="widget-title">Contact</h3>
                 <div className="widget-content">
-                  <div className="text">MASHREQ, Al Suq Al Kabeer, Dubai</div>
+                  <div className="text">Office No1072 - Entrance Offices Block B, M Floor Office-11C Muteena, Dubai-UAE<br> PO Box No: 32925</div>
                   <ul className="contact-info">
                     <li>
                       <i className="fa fa-envelope"></i>{" "}

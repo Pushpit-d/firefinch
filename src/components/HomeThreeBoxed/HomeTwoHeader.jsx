@@ -121,14 +121,16 @@ function Header({ action, className, scroll }) {
               <div className="contact-info-box">
                 <i className="icon lnr-icon-phone-handset"></i>
                 <span className="title">Call Now</span>
-                <Link to="tel:+92880098670">+92 (8800) - 98670</Link>
+                <Link to="tel:+97145583791">+971 4 558 3791</Link>
               </div>
             </li>
             <li>
               <div className="contact-info-box">
                 <span className="icon lnr-icon-envelope1"></span>
                 <span className="title">Send Email</span>
-                <Link to="mailto:help@company.com">help@company.com</Link>
+                <Link to="mailto:info@firefinchtechnologies.com">
+                  info@firefinchtechnologies.com
+                </Link>
               </div>
             </li>
             <li>

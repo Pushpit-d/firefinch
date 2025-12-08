@@ -141,7 +141,7 @@ function Contact() {
                     </div>
                     <div className="text">
                       <h6>Visit anytime</h6>
-                      <span>MASHREQ, Al Suq Al Kabeer, Dubai</span>
+                      <span>Office No1072 - Entrance Offices Block B, M Floor Office-11C Muteena, Dubai-UAE<br> PO Box No: 32925</span>
                     </div>
                   </li>
                 </ul>
@@ -154,7 +154,7 @@ function Contact() {
         <div className="container-fluid p-0">
           <div className="row">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7216.509372272761!2d55.28788619354419!3d25.262016563496367!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f433fc32c0151%3A0xc280b5c494aa3428!2sAl%20Souq%20Al%20Kabeer%20-%20Dubai%20-%20United%20Arab%20Emirates!5e0!3m2!1sen!2sin!4v1765055691933!5m2!1sen!2sin"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4327.440611063165!2d55.31996325399251!3d25.273538354779223!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f5d17a483d921%3A0x80ccfd3c8073fd9d!2sResidence%201072!5e0!3m2!1sen!2sin!4v1765175829721!5m2!1sen!2sin"
               data-tm-width="100%"
               height="500"></iframe>
           </div>

@@ -85,7 +85,7 @@ function Header({ action, className, scroll }) {
               <div className="contact-info-box">
                 <i className="icon lnr-icon-phone-handset"></i>
                 <span className="title">Call Now</span>
-                <a href="tel:+92880098670">+92 (8800) - 98670</a>
+                <a href="tel:+97145583791">+971 4 558 3791</a>
               </div>
             </li>
             <li>
@@ -93,7 +93,9 @@ function Header({ action, className, scroll }) {
               <div className="contact-info-box">
                 <span className="icon lnr-icon-envelope1"></span>
                 <span className="title">Send Email</span>
-                <a href="mailto:help@company.com">help@company.com</a>
+                <a href="mailto:info@firefinchtechnologies.com">
+                  info@firefinchtechnologies.com
+                </a>
               </div>
             </li>
             <li>
@@ -160,7 +162,6 @@ function Header({ action, className, scroll }) {
       </div>
       {/* End Sticky Header */}
     </header>
-    
   );
 }
 
