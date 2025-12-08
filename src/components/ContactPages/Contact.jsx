@@ -142,12 +142,9 @@ function Contact() {
                     <div className="text">
                       {/* <h6>Visit anytime</h6> */}
                       <span>
-                        Office No1072
-                        <br />
-                        Entrance Offices Block B,
-                        <br />M Floor Office-11C Muteena,
-                        <br />
-                        Dubai-UAE
+                        Office No1072 - 
+                        <br />Entrance Offices Block B, M Floor
+                        <br />Office-11C Muteena, Dubai-UAE
                       </span>
                     </div>
                   </li>
