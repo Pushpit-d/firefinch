@@ -160,7 +160,7 @@ function Contact() {
         <div className="container-fluid p-0">
           <div className="row">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d241.63800619512577!2d55.32835275483943!3d25.276151120153038!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sin!4v1765178137591!5m2!1sen!2sin"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31716379.656231888!2d16.369628906250004!3d25.10549737301469!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f64690166e3d5%3A0x6b3e95ffb4a65893!2sApricot%20Tower%20-%20Sheikh%20Zayed%20Bin%20Hamdan%20Al%20Nahyan%20Street%20-%20Nadd%20Hessa%20-%20Dubai%20Silicon%20Oasis%20-%20Dubai%20-%20United%20Arab%20Emirates!5e1!3m2!1sen!2sin!4v1767513124430!5m2!1sen!2sin"
               data-tm-width="100%"
               height="500"></iframe>
           </div>
