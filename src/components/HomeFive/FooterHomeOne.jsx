@@ -66,8 +66,8 @@ function FooterHomeOne({ className }) {
                 <div className="widget-content">
                   <div className="text">
                     Office No 1204-6, 12th floor, Apricot tower, Dubai silicon
-                    oasis, P.O. Box no: 85789, Dubai, UAE
-                    <br /> PO Box No: 32925
+                    oasis, Dubai, UAE
+                    <br /> PO Box No: 85789
                   </div>
                   <ul className="contact-info">
                     <li>

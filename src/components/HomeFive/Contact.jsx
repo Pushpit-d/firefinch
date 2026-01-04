@@ -21,10 +21,10 @@ function ContactSectionThree() {
                 <span className="icon fa fa-map-marker-alt"></span>
                 {/* <h6 className="title">Visit Us</h6> */}
                 <div className="text">
-                  Office No 1204-6, 12th floor, Apricot tower, Dubai silicon
+                  Office No 1204-6, 12th floor, Apricot tower,
                   oasis,
-                  <br /> P.O. Box no: 85789, Dubai, UAE
-                  <br /> PO Box No: 32925
+                  <br /> Dubai silicon oasis, Dubai, UAE
+                  <br /> PO Box No: 85789
                 </div>
               </div>
 
