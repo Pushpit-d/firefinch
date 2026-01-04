@@ -81,8 +81,8 @@ function FooterHomeOne({ className }) {
                 <h3 className="widget-title">Contact</h3>
                 <div className="widget-content">
                   <div className="text">
-                    Office No1072 - Entrance Offices Block B, M Floor Office-11C
-                    Muteena, Dubai-UAE
+                    Office No 1204-6, 12th floor, Apricot tower, Dubai silicon
+                    oasis, P.O. Box no: 85789, Dubai, UAE
                     <br /> PO Box No: 32925
                   </div>
                   <ul className="contact-info">
@@ -94,7 +94,7 @@ function FooterHomeOne({ className }) {
                     </li>
                     <li>
                       <i className="fa fa-phone-square"></i>{" "}
-                      <Link to="tel:+97145583791">+971 4 558 3791</Link>
+                      <Link to="tel:+97145581425">+971 4 558 1425</Link>
                     </li>
                   </ul>
                 </div>

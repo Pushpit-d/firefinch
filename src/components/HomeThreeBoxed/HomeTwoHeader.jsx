@@ -121,7 +121,7 @@ function Header({ action, className, scroll }) {
               <div className="contact-info-box">
                 <i className="icon lnr-icon-phone-handset"></i>
                 <span className="title">Call Now</span>
-                <Link to="tel:+97145583791">+971 4 558 3791</Link>
+                <Link to="tel:+97145581425">+971 4 558 1425</Link>
               </div>
             </li>
             <li>

@@ -120,7 +120,7 @@ function Contact() {
                     <div className="text">
                       <h6>Have any question?</h6>
                       <a href="tel:980089850">
-                        <span>Free</span> +971 4 558 3791
+                        <span>Free</span> +971 4 558 1425
                       </a>
                     </div>
                   </li>
@@ -142,9 +142,11 @@ function Contact() {
                     <div className="text">
                       {/* <h6>Visit anytime</h6> */}
                       <span>
-                        Office No1072 - 
-                        <br />Entrance Offices Block B, M Floor
-                        <br />Office-11C Muteena, Dubai-UAE
+                        Office No 1204-6, 12th floor,
+                        <br />
+                        Apricot tower, Dubai silicon oasis,
+                        <br />
+                        P.O. Box no: 85789, Dubai, UAE
                       </span>
                     </div>
                   </li>

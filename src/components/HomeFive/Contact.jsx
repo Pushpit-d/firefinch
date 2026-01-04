@@ -20,7 +20,12 @@ function ContactSectionThree() {
               <div className="contact-info-box-two">
                 <span className="icon fa fa-map-marker-alt"></span>
                 {/* <h6 className="title">Visit Us</h6> */}
-                <div className="text">Office No1072 - Entrance Offices Block B,<br />M Floor Office-11C Muteena, Dubai-UAE<br /> PO Box No: 32925</div>
+                <div className="text">
+                  Office No 1204-6, 12th floor, Apricot tower, Dubai silicon
+                  oasis,
+                  <br /> P.O. Box no: 85789, Dubai, UAE
+                  <br /> PO Box No: 32925
+                </div>
               </div>
 
               <div className="contact-info-box-two">
@@ -37,7 +42,7 @@ function ContactSectionThree() {
                 <span className="icon fa fa-phone"></span>
                 <h6 className="title">Call now</h6>
                 <div className="text">
-                  <Link to="tel:+97145583791">+971 4 558 3791</Link>
+                  <Link to="tel:+97145581425">+971 4 558 1425</Link>
                 </div>
               </div>
             </div>
