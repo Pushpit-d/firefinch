@@ -157,7 +157,7 @@ function HomeTwoHeader({ action, className, scroll }) {
                   <div className="contact-info-box">
                     <span className="icon lnr-icon-clock"></span>
                     <span className="title">Opening Hours</span>
-                    Mon - Sat 8:00 - 6:30, Sunday - CLOSED
+                    Mon- Fri 10:00 - 6:00, Sat & Sun - Closed
                   </div>
                 </li>
               </ul>
